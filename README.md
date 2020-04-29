@@ -14,3 +14,8 @@ lfs 设置
 https://www.oschina.net/translate/getting-started-with-git-lfs-tutorial
 
 就可以完成下载上传 
+
+
+## 备份资源 
+ ----------
+ re3 women 都是 生化危机模型  nv 
